@@ -6,5 +6,33 @@
     "RepositoryWebsite": "https://sugiuta.github.io/repo/",
     "DefaultHeaderImage": "https://sugiuta.github.io/repo-mdc/Images/header.png",
     "RepositoryContents": [
+        {
+            "Name": "NO DATA",
+            "Description": "THIS IS TEST PACKAGE.",
+            "Author": {
+                "Label": "Sugiuta",
+                "Links": [
+                    {
+                        "Label": "Sugiuta",
+                        "Link": "https://twitter.com/FeAr_sugi"
+                    }
+                ]
+            },
+            "Icon": "https://sugiuta.github.io/repo-mdc/Images/icon.png",
+            "Category": null,
+            "Caption": "DO NOT INSTALL THIS PACKAGE",
+            "Screenshot": [
+                "https://sugiuta.github.io/repo-mdc/Tweaks/demo/screenshot/screenshot1.png",
+                "https://sugiuta.github.io/repo-mdc/Tweaks/demo/screenshot/screenshot2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "NO DATA",
+                    "Description": "Initial release"
+                }
+            ],
+            "PackageID": "com.sugiuta.demo"
+        }
     ]
 }
