@@ -2,13 +2,13 @@
     "RepositoryName": "Sugiuta",
     "RepositoryDescription": "Sugiuta's repository for misaka",
     "RepositoryAuthor": "Sugiuta",
-    "RepositoryIcon": "https://sugiuta.github.io/repo-mdc/Images/icon.gif",
+    "RepositoryIcon": "https://sugiuta.github.io/repo-mdc/Images/icon.png",
     "RepositoryWebsite": null,
     "DefaultHeaderImage": "https://sugiuta.github.io/repo-mdc/Images/header.png",
     "RepositoryContents": [
         {
-            "Name": "NO DATA",
-            "Description": "THIS IS TEST PACKAGE",
+            "Name": "Hide Passcode Blur",
+            "Description": "Remove the blurring of the passcode screen background.",
             "Author": {
                 "Label": "Sugiuta",
                 "Links": [
@@ -18,21 +18,21 @@
                     }
                 ]
             },
-            "Icon": "https://sugiuta.github.io/repo-mdc/Images/icon.gif",
+            "Icon": "https://sugiuta.github.io/repo-mdc/Images/HidePasscodeBlur/icon.png",
             "Category": null,
-            "Caption": "DO NOT INSTALL THIS PACKAGE",
+            "Caption": "Remove the blurring of the passcode screen background.\nTEST DEVICE: iPhone12 Pro iOS 15.4.1",
             "Screenshot": [
-                "https://sugiuta.github.io/repo-mdc/Tweaks/demo/screenshot/screenshot1.png",
-                "https://sugiuta.github.io/repo-mdc/Tweaks/demo/screenshot/screenshot2.png"
+                "https://sugiuta.github.io/repo-mdc/Images/HidePasscodeBlur/01.png",
+                "https://sugiuta.github.io/repo-mdc/Images/HidePasscodeBlur/02.png"
             ],
             "Releases": [
                 {
                     "Version": "0.1",
-                    "Package": "NO DATA",
+                    "Package": "https://sugiuta.github.io/repo-mdc/Tweaks/com.sugiuta.hidepasscodeblur.misaka",
                     "Description": "Initial release"
                 }
             ],
-            "PackageID": "com.sugiuta.demo"
+            "PackageID": "com.sugiuta.hidepasscodeblur"
         }
     ]
 }
