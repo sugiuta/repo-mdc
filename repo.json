@@ -2,8 +2,8 @@
     "RepositoryName": "Sugiuta",
     "RepositoryDescription": "Sugiuta's repository for misaka",
     "RepositoryAuthor": "Sugiuta",
-    "RepositoryIcon": "https://sugiuta.github.io/repo-mdc/Images/icon.png",
-    "RepositoryWebsite": "https://sugiuta.github.io/repo/",
+    "RepositoryIcon": "https://sugiuta.github.io/repo-mdc/Images/icon.gif",
+    "RepositoryWebsite": null,
     "DefaultHeaderImage": "https://sugiuta.github.io/repo-mdc/Images/header.png",
     "RepositoryContents": [
         {
@@ -18,7 +18,7 @@
                     }
                 ]
             },
-            "Icon": "https://sugiuta.github.io/repo-mdc/Images/icon.png",
+            "Icon": "https://sugiuta.github.io/repo-mdc/Images/icon.gif",
             "Category": null,
             "Caption": "DO NOT INSTALL THIS PACKAGE",
             "Screenshot": [
