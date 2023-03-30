@@ -33,6 +33,35 @@
                 }
             ],
             "PackageID": "com.sugiuta.hidepasscodeblur"
+        },
+        {
+            "Name": "LS PokeButton",
+            "Description": "Pokemon on LS!",
+            "Author": {
+                "Label": "Sugiuta & Kumiki",
+                "Links": [
+                    {
+                        "Label": "Sugiuta (Original project)",
+                        "Link": "https://twitter.com/FeAr_sugi"
+                    },
+                    {
+                        "Label": "Kumiki (.car restructuring)",
+                        "Link": "https://twitter.com/FisqWclCKB8xtLC"
+                    }
+                ]
+            },
+            "Icon": "https://sugiuta.github.io/repo-mdc/Images/icon.png",
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1090303346226766004/com.sugiuta.lspokebutton.misaka",
+                    "Description": "Initial release"
+                }
+            ],
+            "PackageID": "com.sugiuta.lspokebutton"
         }
     ]
 }
